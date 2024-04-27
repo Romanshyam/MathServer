@@ -130,11 +130,11 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![Screenshot 2024-04-23 214227](https://github.com/magesh534/MathServer/assets/135577936/97de414d-fff2-4c0e-a77a-0e6a0a9487b3)
+![Screenshot 2023-11-16 085531](https://github.com/Madhan213/MathServer/assets/130206230/a40d2f28-b5dd-4fa4-9be9-5b731032f0cb)
 
 
 ## HOMEPAGE:
-![Screenshot 2024-04-23 214023](https://github.com/magesh534/MathServer/assets/135577936/a85c7192-3d0b-4b32-9824-1ab6f16fff4a)
+![Screenshot 2023-11-16 085619](https://github.com/Madhan213/MathServer/assets/130206230/5c0e198d-39e9-4997-963a-3414a7dd59ff)
 
 
 ## RESULT:
